@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SwitchBindingKotlin</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+
+</resources>
